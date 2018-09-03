@@ -1,0 +1,8 @@
+C:\Users\Vardan\Documents\Visual Studio 2015\Projects\BootCamp\C#\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.exe.config
+C:\Users\Vardan\Documents\Visual Studio 2015\Projects\BootCamp\C#\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.exe
+C:\Users\Vardan\Documents\Visual Studio 2015\Projects\BootCamp\C#\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.pdb
+C:\Users\Vardan\Documents\Visual Studio 2015\Projects\BootCamp\C#\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.csprojResolveAssemblyReference.cache
+C:\Users\Vardan\Documents\Visual Studio 2015\Projects\BootCamp\C#\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.exe
+C:\Users\Vardan\Documents\Visual Studio 2015\Projects\BootCamp\C#\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.pdb
+C:\Users\Vardan\Documents\Visual Studio 2015\Projects\BootCamp\C#\CoffeeMachine\CoffeeMachine\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vardan\Documents\Visual Studio 2015\Projects\BootCamp\C#\CoffeeMachine\CoffeeMachine\bin\Debug\Newtonsoft.Json.xml
